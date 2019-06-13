@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "SCART to DVI-A Compact")(type KiCad)(uri "$(KIPRJMOD)/SCART to DVI-A Compact.pretty")(options "")(descr ""))
+)
