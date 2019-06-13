@@ -1,2 +1,2 @@
 # SCART2DVI
-Optimize SCART input for the Datapath Vision family of capture cards.
+Please refer to the [SCART2DVI](https://www.retrorgb.com/scart2dvi.html) page on RetroRGB for more information.
